@@ -1,0 +1,26 @@
+{
+  "name": "baseporject-concept",
+  "version": "1.0.0",
+  "description": "node js webservice base project",
+  "main": "./app/index.js",
+  "scripts": {
+    "start": "node ./app/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitorDevP/baseProject.git"
+  },
+  "keywords": [
+    "baseProject"
+  ],
+  "author": "v rodrigues",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitorDevP/baseProject/issues"
+  },
+  "homepage": "https://github.com/VitorDevP/baseProject#readme",
+  "dependencies": {
+    "dotenv": "^8.2.0"
+  }
+}
